@@ -1,0 +1,16 @@
+li {
+    width: 10%;
+    border: 1px solid red;
+    padding: 2px;
+    margin: 1px 0;
+    list-style-position: inside;
+}
+
+#nthMinta {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+span {
+    color: red;
+    font-weight: bolder;
+}
